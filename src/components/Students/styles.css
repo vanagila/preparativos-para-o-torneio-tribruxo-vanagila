@@ -1,0 +1,65 @@
+div.studentCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  font-weight: 900;
+}
+
+.gryffindor {
+  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\gryffindor.png);
+  background-size: 250px 250px;
+}
+
+.gryffindor:hover {
+  border: 3px solid #f75151;
+}
+
+.slytherin {
+  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\slytherin.png);
+  background-size: 250px 250px;
+}
+
+.slytherin:hover {
+  border: 3px solid #315a39;
+}
+
+.hufflepuff {
+  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\hufflepuff.png);
+  background-size: 250px 250px;
+}
+
+.hufflepuff:hover {
+  border: 3px solid #d99a3d;
+}
+
+.ravenclaw {
+  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\ravenclaw.png);
+  background-size: 250px 250px;
+}
+
+.ravenclaw:hover {
+  border: 3px solid #16558f;
+}
+
+.noHouse {
+  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\nohouse.png);
+  background-size: 250px 250px;
+}
+
+.noHouse:hover {
+  border: 3px solid white;
+}
+
+@media screen and (min-device-width: 769px) {
+  .studentCard {
+    height: 250px;
+    width: 250px;
+    font-size: 16px;
+  }
+}
