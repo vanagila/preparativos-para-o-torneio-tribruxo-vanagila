@@ -12,7 +12,7 @@ div.studentCard {
 }
 
 .gryffindor {
-  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\gryffindor.png);
+  background-image: url(/src/images/gryffindor.png);
   background-size: 250px 250px;
 }
 
@@ -21,7 +21,7 @@ div.studentCard {
 }
 
 .slytherin {
-  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\slytherin.png);
+  background-image: url(/src/images/slytherin.png);
   background-size: 250px 250px;
 }
 
@@ -30,7 +30,7 @@ div.studentCard {
 }
 
 .hufflepuff {
-  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\hufflepuff.png);
+  background-image: url(/src/images/hufflepuff.png);
   background-size: 250px 250px;
 }
 
@@ -39,7 +39,7 @@ div.studentCard {
 }
 
 .ravenclaw {
-  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\ravenclaw.png);
+  background-image: url(/src/images/ravenclaw.png);
   background-size: 250px 250px;
 }
 
@@ -48,7 +48,7 @@ div.studentCard {
 }
 
 .noHouse {
-  background-image: url(C:\Users\Vanágila\kenzie\React\react-entrega-s1-preparativos-para-o-torneio-tribruxo-vanagila\src\images\nohouse.png);
+  background-image: url(/src/images/nohouse.png);
   background-size: 250px 250px;
 }
 
