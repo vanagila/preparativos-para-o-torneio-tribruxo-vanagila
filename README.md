@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Tecnologias usadas`
 
-JS, CSS
+JS, REACT, CSS
